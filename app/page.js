@@ -1,4 +1,4 @@
-"use client";
+"use client"
 import { CldUploadWidget } from "next-cloudinary";
 import { useState, useEffect, useCallback } from "react";
 import {
